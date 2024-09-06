@@ -11,7 +11,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edi
     <body>
         <?php
            echo 'Olá mundo!';
-           echo "concluido!"
+           echo "commit"
         ?>
     </body>
 </html>
